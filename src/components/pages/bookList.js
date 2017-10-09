@@ -56,7 +56,7 @@ class BookList extends Component {
                     </Carousel>
                 </Row>
 
-                <Row style={{marginTop: '15px'}}>
+                <Row style={{marginTop: '15px',marginBottom:'30px'}}>
                     {booksList}
                 </Row>
             </Grid>

@@ -36097,7 +36097,7 @@ var BookList = function (_Component) {
                 ),
                 _react2.default.createElement(
                     _reactBootstrap.Row,
-                    { style: { marginTop: '15px' } },
+                    { style: { marginTop: '15px', marginBottom: '30px' } },
                     booksList
                 )
             );
