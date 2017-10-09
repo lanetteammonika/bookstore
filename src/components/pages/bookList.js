@@ -30,7 +30,7 @@ class BookList extends Component {
         })
         return (
             <Grid>
-                <Row>
+                <Row style={{marginTop: '15px'}}>
                     <Carousel>
                         <Carousel.Item>
                             <img width={900} height={300} alt="900x300" src="/images/b1.jpg"/>

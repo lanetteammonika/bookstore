@@ -8,7 +8,7 @@ class BookItem extends Component{
     constructor(props){
         super(props);
         this.state={
-            isClicked:true
+            isClicked:false
         }
     }
 

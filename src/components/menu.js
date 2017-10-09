@@ -10,7 +10,7 @@ class Menu extends Component {
             <Navbar inverse fixedTop>
                 <Navbar.Header>
                     <Navbar.Brand>
-                        <a href="/">React-Bootstrap</a>
+                        <a href="/">Book List</a>
                     </Navbar.Brand>
                     <Navbar.Toggle />
                 </Navbar.Header>
